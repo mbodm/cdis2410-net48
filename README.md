@@ -3,7 +3,7 @@ Ported my [cdis2410](https://github.com/mbodm/cdis2410) tool from .NET8 AOT to .
 
 ### What?
 
-I quickly ported my [cdis2410](https://github.com/mbodm/cdis2410) tool from .NET8 AOT to .NET Framework 4.8, for various reasons.
+I quickly ported my [cdis2410](https://github.com/mbodm/cdis2410) tool from .NET8 AOT to .NET Framework 4.8, for various reasons. It was more or less the result of some testing.
 
 ### Notes/Differences?
 
