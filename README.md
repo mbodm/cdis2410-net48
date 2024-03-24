@@ -5,7 +5,7 @@ Port of my [cdis2410](https://github.com/mbodm/cdis2410) tool from .NET8 AOT to 
 
 I quickly ported my [cdis2410](https://github.com/mbodm/cdis2410) tool from .NET8 AOT to .NET Framework 4.8, for various reasons.
 
-### Notes/Differences
+### Notes/Differences?
 
 - Project format (*.csproj*) is also "*SDK-sytle project format*"
 - *Target Framework Moniker* is "*net48*" instead of "*net8.0*"
