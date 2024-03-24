@@ -9,9 +9,9 @@ I quickly ported my [cdis2410](https://github.com/mbodm/cdis2410) tool from .NET
 
 - Project format (*.csproj*) is also "*SDK-sytle project format*"
 - *Target Framework Moniker* is "*net48*" instead of "*net8.0*"
-- Removed `<ImplicitUsings>enable</ImplicitUsings>` setting (since it's C# language version 7.3)
+- Removed `<ImplicitUsings>enable</ImplicitUsings>` setting (since it's C# 7.3)
 - Added missing usings (for above reason)
-- Removed `<Nullable>enable</Nullable>` setting (since it's C# language version 7.3)
+- Removed `<Nullable>enable</Nullable>` setting (since it's C# 7.3)
 - Souce code is ported 1:1 without any further changes
 - Published with default setttings (in a *net48* project you can't change them)
 - Built on a Windows 10 machine
