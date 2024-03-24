@@ -1,9 +1,9 @@
 # cdis2410-net48
-Port of my [cdis24010](https://github.com/mbodm/cdis2410) tool from .NET8 AOT to .NET Framework 4.8
+Port of my [cdis2410](https://github.com/mbodm/cdis2410) tool from .NET8 AOT to .NET Framework 4.8
 
 ### What?
 
-I quickly ported my [cdis24010](https://github.com/mbodm/cdis2410) tool from .NET8 AOT to .NET Framework 4.8, for various reasons.
+I quickly ported my [cdis2410](https://github.com/mbodm/cdis2410) tool from .NET8 AOT to .NET Framework 4.8, for various reasons.
 
 ### Notes/Differences
 
