@@ -18,6 +18,6 @@ I quickly ported my [cdis2410](https://github.com/mbodm/cdis2410) tool from .NET
 - Runs on Windows 11 or Windows 10 ("*May 2019 Update*" or later)
 - Runs on any Windows (7, 8, or 10 before 05/19) with an installed .NET 4.8 runtime
 
-For anything else, please have a look at https://github.com/mbodm/cdis2410
+For anything else please have a look at https://github.com/mbodm/cdis2410
 
 #### Have fun.
