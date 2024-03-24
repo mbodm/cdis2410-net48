@@ -16,7 +16,7 @@ I quickly ported my [cdis2410](https://github.com/mbodm/cdis2410) tool from .NET
 - Published with default setttings (in a *net48* project you can't change them)
 - Built on a Windows 10 machine
 - Runs on Windows 11 or Windows 10 ("*May 2019 Update*" or later)
-- Runs on any Windows (7, 8, or 10 before 05/19) with an installed .NET Framework 4.8 runtime
+- Runs on any Windows (7, 8, 10 before 05/19) with an installed .NET Framework 4.8 runtime
 
 For anything else, please have a look at https://github.com/mbodm/cdis2410
 
