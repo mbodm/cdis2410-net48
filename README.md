@@ -13,7 +13,7 @@ I quickly ported my [cdis24010](https://github.com/mbodm/cdis2410) tool from .NE
 - Added missing usings (for above reason)
 - Removed `<Nullable>enable</Nullable>` setting (since it's C# language version 7.3)
 - Souce code is 1:1 ported without any changes
-- Published with default setttings (in a net48 project you can't change them anyway)
+- Published with default setttings (in a *net48* project you can't change them anyway)
 - Built on a Windows 10 machine
 
 For anything else, please have a look at https://github.com/mbodm/cdis2410
