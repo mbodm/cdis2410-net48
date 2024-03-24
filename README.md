@@ -12,7 +12,7 @@ I quickly ported my [cdis2410](https://github.com/mbodm/cdis2410) tool from .NET
 - Removed `<ImplicitUsings>enable</ImplicitUsings>` setting (since it's C# language version 7.3)
 - Added missing usings (for above reason)
 - Removed `<Nullable>enable</Nullable>` setting (since it's C# language version 7.3)
-- Souce code is 1:1 ported without any changes
+- Souce code is 1:1 ported without any further changes
 - Published with default setttings (in a *net48* project you can't change them anyway)
 - Built on a Windows 10 machine
 - Runs on Windows 11 or Windows 10 ("*May 2019 Update*" or later)
